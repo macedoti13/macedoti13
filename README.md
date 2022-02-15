@@ -1,6 +1,6 @@
 # Hi there, I'm Thiago👋
 
-## I'm an apiring data scientist, studying hard to get my first job while pursuing a Bachelor's degree in Data Science and A.I at [PUCRS]
+## I'm an aspiring data scientist, studying hard to get my first job while pursuing a Bachelor's degree in Data Science and A.I at [PUCRS]
 - 🔭 I’m currently working as an intern at PROCERGS
 - 🌱 I’m currently learning Data Science (Machine Learning to be more specific) 
 <div align="center">
