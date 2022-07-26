@@ -1,7 +1,7 @@
 # Hi there, I'm Thiago👋
 
 ## I'm an aspiring data scientist, studying hard to get my first job while pursuing a Bachelor's degree in Data Science and A.I at [PUCRS]
-- 🌱 I’m currently learning Data Science (Machine Learning to be more specific) 
+
 <div align="center">
   <a href="https://github.com/macedoti13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=macedoti13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
