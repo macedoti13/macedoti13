@@ -24,7 +24,7 @@
   <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/SQL.svg" alt="SQL" style="vertical-align:top; margin:4px"> 
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px"> 
 </div>
   
 ##
