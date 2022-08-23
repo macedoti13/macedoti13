@@ -11,6 +11,7 @@
 ### Languages and Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="Thi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Thi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyspark-original.svg">
   <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
     <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
     <img align="center" alt="Thi-Java" height="30" width="40" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg">
@@ -22,9 +23,6 @@
   <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Thi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px"> 
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/pandas.svg" alt="pandas" style="vertical-align:top; margin:4px"> 
 </div>
   
 ##
