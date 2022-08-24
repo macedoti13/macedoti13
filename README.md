@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=macedoti13&show_icons=true&theme=light&locale=en" alt="macedoti13" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=macedoti13&theme=light" alt="macedoti13" /></p>
+
+<img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
