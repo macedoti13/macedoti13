@@ -37,6 +37,8 @@
    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" widht="45" height="45">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439" widht="45" height="45">
+   <img src="https://www.statsmodels.org/devel/_images/statsmodels-logo-v2-no-text.svg" width="45" height="45">
+   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="45" height="45">
  </p>
 <h3 align="left">My Humble Stats:</h3>
 
