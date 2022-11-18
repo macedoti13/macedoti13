@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing a bachelor's degree in [Data Science & Artificial Intelligence](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/) at PUCRS!
 
-- 🌱 I’m currently learning **PySpark**
+- 🌱 I’m currently working as a **data science intern at PicPay**!
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.datascienceportfol.io/macedoti)
 
