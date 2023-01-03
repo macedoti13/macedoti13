@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiago Macedo</h1>
-<h3 align="center">Data Science Student at Brazil</h3>
+<h3 align="center">Data Science Student in Brazil</h3>
 
 - 🔭 I’m currently pursuing a bachelor's degree in [Data Science & Artificial Intelligence](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/) at PUCRS!
 
