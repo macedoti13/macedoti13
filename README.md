@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thialmacedo@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1DL_uTe5LMboR3IUh47L5euXqG5TfpAum/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://docs.google.com/document/d/e/2PACX-1vQJWUOUF4IKyGXCos0iK3-0G4TE8NmAtQ5Lv8_txwfctI_ClipvgWRqwjYICoIC4ngKmWcSB-ama3ct/pub)
 
 - ⚡ Fun fact **I'm really like to play Poker**
 
