@@ -1,4 +1,4 @@
-![](Bottom_up.svg)
+![](Botton_up.svg)
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Data+Science+Student+at+PUCRS;Data+Science+Intern+at+PicPay;.)](https://git.io/typing-svg)
 
@@ -65,7 +65,7 @@
 
 ---
 
- ![](Bottom_down.svg)
+ ![](Botton_down.svg)
 
  <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
 
