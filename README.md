@@ -20,7 +20,7 @@
 <h3 align="left">My Personal Machine Learning Library: Skynet</h3>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macedoti13&repo=skynet&bg_color=00000000)](https://github.com/macedoti13/skynet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macedoti13&repo=skynet&bg_color=00000000)](https://github.com/macedoti13/skynet_ml)
 
 
 ---
