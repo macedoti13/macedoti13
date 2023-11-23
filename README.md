@@ -10,7 +10,7 @@
 - 🔭 **Data Science Intern** at [PicPay](https://picpay.com)                                                      
 - 👨‍💻 All of my projects are available at [My Portfolio]()
 - 📫 How to reach me: **thialmacedo@gmail.com**
-- 📄 Know about my experiences: [Resume Link]()
+- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1Hu72TqLe7tJRi8uuz9DjJmHNufceTUWC/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
