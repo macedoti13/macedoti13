@@ -56,7 +56,7 @@
 ---   
    
 ### Some insights about Github Profile
-| .                                                                                                                                      | .                                                                                                                         |
+| Github Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [![Macedoti's GitHub stats](https://github-readme-stats.vercel.app/api?username=macedoti13&show_icons=true&bg_color=00000000&rank_icon=github&include_all_commits=true)](https://github.com/macedoti/github-readme-stats) | ![Macedoti's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=macedoti13&show_icons=true&bg_color=00000000&layout=compact) |
 
