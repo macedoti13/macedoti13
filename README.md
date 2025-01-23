@@ -1,15 +1,14 @@
 ![](Botton_up.svg)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Data+Science+Student+at+PUCRS;+ML+Engineer+at+Teia+Labs;.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Bachelor's+Degree+Graduate+in+Data+Science+&+AI+at+PUCRS;+ML+Engineer+at+Teia+Labs;.)](https://git.io/typing-svg)
 
 ---
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
-- 🎓 **Data Science & A.I** student at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)
-- 🔭 **Junior ML Engineer** at [Teia Labs](http://www.teialabs.com/)                                                      
-- 👨‍💻 All of my projects are available at [My Portfolio]()
-- 📫 How to reach me: **thialmacedo@gmail.com**
+- 🎓 **Data Science & A.I** Graduate at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)
+- 🔭 **Machine Learning Engineer** at [Teia Labs](http://www.teialabs.com/)                                                      
+- 📫 Reach me at: **thialmacedo@gmail.com**
 - 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1Hu72TqLe7tJRi8uuz9DjJmHNufceTUWC/view?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
@@ -27,8 +26,6 @@
 
 ### Education:
 **Bachelor of Science in Data Science & Artificial Intelligence at PUCRS**
-
-
 
 <a href="https://www.pucrs.br"><img src="https://www.pucrs.br/wp-content/themes/pucrs-responsivo/images/pucrs_com_brasao_primario.svg" alt="drawing" height="200" width="500"/>  
 
