@@ -9,7 +9,7 @@
 - 🎓 **Data Science & A.I** Graduate at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)
 - 🔭 **Machine Learning Engineer** at [Teia Labs](http://www.teialabs.com/)                                                      
 - 📫 Reach me at: **thialmacedo@gmail.com**
-- 📄 Know about my experiences: [Resume Link](https://drive.google.com/file/d/1Hu72TqLe7tJRi8uuz9DjJmHNufceTUWC/view?usp=sharing)
+- 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/17NTVaSUwV-79gTIrXHD2gXsbOTNnQq2IEFkgQxlmZIY/edit?usp=sharing)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
