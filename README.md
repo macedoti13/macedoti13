@@ -1,15 +1,15 @@
 ![](Botton_up.svg)
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Graduate+in+Data+Science+and+AI+at+PUCRS;+ML+Engineer+at+Teia+Labs;.)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Graduate+in+Data+Science+and+AI+at+PUCRS;+Data+Scientist+at+BTG+Pactual;.)](https://git.io/typing-svg)
 
 ---
  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right">
 
 - 🎓 **Data Science & A.I** Graduate at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)
-- 🔭 **Machine Learning Engineer** at [Teia Labs](http://www.teialabs.com/)                                                      
+- 🔭 **Data Scientist** at [BTG Pactual](https://www.btgpactual.com)                                                      
 - 📫 Reach me at: **thialmacedo@gmail.com**
-- 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/17NTVaSUwV-79gTIrXHD2gXsbOTNnQq2IEFkgQxlmZIY/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume Link](https://docs.google.com/document/d/17NTVaSUwV-79gTIrXHD2gXsbOTNnQq2IEFkgQxlmZIY/edit?usp=sharing) (obs: It needs an update)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
