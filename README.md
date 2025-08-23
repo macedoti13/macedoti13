@@ -1,5 +1,3 @@
-![](Botton_up.svg)
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=20&color=22d933&vCenter=true&width=600&height=70&repeat=true&lines=Hi+there+,+I+am+Thiago;+Welcome+to+My+Profile!;Graduate+in+Data+Science+and+AI+at+PUCRS;+Data+Scientist+at+BTG+Pactual;.)](https://git.io/typing-svg)
 
 ---
