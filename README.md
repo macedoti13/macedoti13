@@ -8,16 +8,6 @@
 - 🔭 **Data Scientist** at [BTG Pactual](https://www.btgpactual.com)  
 - 📫 Reach me at: **thialmacedo@gmail.com**  
 - 📄 Learn more about my experience: [Resume](https://docs.google.com/document/d/1ZAkCs094MYnlQ9pW6HDNM_idF2TUp8VAFaJLlH-Xq6M/edit?usp=sharing)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/macedoti13" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: macedoti13" height="70" width="60" />
-</a>
-</p>
-
----
+- Connect with me: [LinkedIn](https://linkedin.com/in/macedoti13)
 
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
