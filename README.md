@@ -20,12 +20,4 @@
 
 ---
 
-<h3 align="left">Favorite Personal Project</h3>
-
-✨ **Skynet-ML** – a handcrafted machine learning library  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=macedoti13&repo=skynet&bg_color=00000000)](https://github.com/macedoti13/skynet_ml)
-
----
-
 <img src="https://github.com/JonathanFerraz/JonathanFerraz/blob/master/.github/rainbow.gif" width="100%">
