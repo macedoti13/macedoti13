@@ -7,7 +7,7 @@
 - 🎓 **Graduate in Data Science & Artificial Intelligence** at [PUCRS](https://www.pucrs.br/politecnica/curso/ciencia-de-dados/)  
 - 🔭 **Data Scientist** at [BTG Pactual](https://www.btgpactual.com)  
 - 📫 Reach me at: **thialmacedo@gmail.com**  
-- 📄 Learn more about my experience: [Resume](https://docs.google.com/document/d/17NTVaSUwV-79gTIrXHD2gXsbOTNnQq2IEFkgQxlmZIY/edit?usp=sharing) *(needs an update)*  
+- 📄 Learn more about my experience: [Resume](https://docs.google.com/document/d/1ZAkCs094MYnlQ9pW6HDNM_idF2TUp8VAFaJLlH-Xq6M/edit?usp=sharing)
 
 ---
 
